@@ -1,0 +1,4 @@
+AndroidDBMan
+============
+
+Database manager
